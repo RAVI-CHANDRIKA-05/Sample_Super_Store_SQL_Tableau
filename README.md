@@ -6,6 +6,9 @@ A SQL Server - Tableau integration project
 In this project I am going to analyze the sample super store in SQL Server and answer some queries and create an interactive dashboard for visualization of the data.
 I have used SQL to answer the queries and Tableau for visualization.<br>
 
+## Files
+I have added the SQL queries as a pdf file with the answers.
+
 ## Source
 This is a sample data set from Kaggle.
 Dataset from https://www.kaggle.com/jr2ngb/superstore-data
