@@ -17,4 +17,4 @@ Dataset from https://www.kaggle.com/jr2ngb/superstore-data
 
 [Click_Here ( Link to Tableau Visualization)](https://public.tableau.com/views/SuperStorePerformanceDashboard_16412805217630/SuperStoreDashboard?:language=en-GB&:display_count=n&:origin=viz_share_link)
 
-![Super Store Dashboard](https://user-images.githubusercontent.com/51845833/148204906-02e587dd-791c-475c-a145-f46020775f6a.png)
+![Super Store Dashboard](https://user-images.githubusercontent.com/51845833/148371703-ab72ee4a-bb0f-4b88-b068-a56b1b4eef37.png)
